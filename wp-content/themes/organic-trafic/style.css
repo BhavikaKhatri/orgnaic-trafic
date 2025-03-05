@@ -1,0 +1,15 @@
+/*!
+Theme Name: Organic Trafic
+Author: Bhavika Khatri
+Description: Theme To detect whether traffic is organic or not
+Version: 1.0.0
+Requires at least: 5.0
+Tested up to: 6.7
+Requires PHP: 7.2
+Tags: custom-background, custom-colors, featured-images, flexible-header, microformats, post-formats, rtl-language-support, theme-options, translation-ready, accessibility-ready
+Text Domain: organic-trafic
+*/
+
+/* Don't overwrite this file. Compile "/assets/main.scss" to "/build/main.css" */
+
+/* Basic Header Styling */
